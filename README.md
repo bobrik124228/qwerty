@@ -1,4 +1,3 @@
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,21 +14,6 @@
             justify-content: flex-start; /* Центрирование содержимого */
             align-items: center;
             padding-top: 50px;
-            overflow: hidden;
-        }
-        .background {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('file:///C:/Users/scorp/OneDrive/Desktop/photo.jpg'); /* Путь к вашему изображению */
-            background-size: cover; /* Изображение будет покрывать весь фон */
-            background-position: center; /* Центрируем изображение */
-            background-repeat: no-repeat; /* Не повторять изображение */
-            filter: blur(40px); /* Применяем размытие */
-            z-index: -1; /* Ставим фоновое изображение позади текста */
-        }
         .content {
             position: relative; /* Позиционирование для текста */
             z-index: 1; /* Текст будет отображаться выше фона */
