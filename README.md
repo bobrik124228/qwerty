@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p></p>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
